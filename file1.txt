@@ -1,0 +1,6 @@
+hi
+my name is isha siddharth
+i am learning git commands
+practicing branch with different commands
+this is for testing purposes
+
